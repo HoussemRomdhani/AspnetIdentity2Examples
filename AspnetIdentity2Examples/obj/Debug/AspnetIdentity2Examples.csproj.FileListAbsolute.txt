@@ -1,0 +1,5 @@
+C:\Users\houssem.r\Desktop\projects\AspnetIdentity2Examples\AspnetIdentity2Examples\bin\Debug\AspnetIdentity2Examples.exe
+C:\Users\houssem.r\Desktop\projects\AspnetIdentity2Examples\AspnetIdentity2Examples\bin\Debug\AspnetIdentity2Examples.pdb
+C:\Users\houssem.r\Desktop\projects\AspnetIdentity2Examples\AspnetIdentity2Examples\obj\Debug\AspnetIdentity2Examples.csprojResolveAssemblyReference.cache
+C:\Users\houssem.r\Desktop\projects\AspnetIdentity2Examples\AspnetIdentity2Examples\obj\Debug\AspnetIdentity2Examples.exe
+C:\Users\houssem.r\Desktop\projects\AspnetIdentity2Examples\AspnetIdentity2Examples\obj\Debug\AspnetIdentity2Examples.pdb
